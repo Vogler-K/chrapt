@@ -1,0 +1,4 @@
+Uninstall bubblewrap
+Delete 'chrapt' in ~/.local/bin/
+Delete '.chrapt/' in ~
+Remove the Path Expansion in your bashrc
